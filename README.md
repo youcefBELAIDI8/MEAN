@@ -10,9 +10,9 @@ on ajoute :
 
 >> On creer un array pour spécifier les routes de notre application, ici on a 4 routes : pour creer, editer, lister, puis une par defaut au cas ou on passe rien en parametre
 
->> On active ces routes on ajoutant de le fichier module toujours et dans le array import 
+>> On active ces routes on ajoutant dans le fichier module toujours et dans le array import 
 
->> Pour utiliser <mat-toolbar> dans le fichchier app.component.html
+>> Pour utiliser <mat-toolbar> dans le fichier app.component.html
 	il faut importer une librairie dans le fichier app.module.ts
 >>>   import { MatToolbarModule } from '@angular/material';
 
